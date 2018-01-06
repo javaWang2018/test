@@ -1,3 +1,3 @@
 # test
 test fot github repository
-content only fot dev branch;
+content only for dev branch;
